@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Agent-Class: agentmain_transform
+Can-Redefine-Classes: true  
+Can-Retransform-Classes: true
+
+
+
+
