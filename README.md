@@ -1,4 +1,3 @@
 # README.md
-Agent学习过程中的源代码，当初自己在学习的时候浪费了一些时间，现在放出来供有需要的人借鉴，希望可以帮到大家！
 
-agent学习参考博客：
+agent学习参考博客：https://www.cnblogs.com/Zephyr07/articles/19035903
